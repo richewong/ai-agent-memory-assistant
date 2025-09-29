@@ -1,0 +1,38 @@
+{
+  "name": "ai-agent-memory-assistant",
+  "version": "1.0.0",
+  "description": "AI Agent记忆助手 - 通用的AI Agent记忆库系统，帮助开发者构建和管理AI助手的长期记忆能力",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs": "echo \"Generate documentation\""
+  },
+  "keywords": [
+    "ai-agent",
+    "memory",
+    "assistant",
+    "long-term-memory",
+    "ai-development",
+    "knowledge-management"
+  ],
+  "author": "AI Agent记忆助手团队",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/ai-agent-memory-assistant.git"
+  },
+  "bugs": {
+    "url": "https://github.com/your-username/ai-agent-memory-assistant/issues"
+  },
+  "homepage": "https://github.com/your-username/ai-agent-memory-assistant#readme",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "files": [
+    "memory/",
+    "README.md",
+    "LICENSE"
+  ],
+  "devDependencies": {},
+  "dependencies": {}
+}
